@@ -5,11 +5,11 @@ There are many distinct edge detection techniques out there and if you've ever a
 We will implement some of the most commonly used methods and also use OpenCV and PIL techniques
 
 Let's compare the following techniques
-
-#1. **Sobel edge detector**
-#2. **Prewitt edge detector**
-#3. **Laplacian edge detector**
-#4. **Canny edge detector**
+<br>
+#1. **Sobel edge detector**<br>
+#2. **Prewitt edge detector**<br>
+#3. **Laplacian edge detector**<br>
+#4. **Canny edge detector**<br>
 
 # <font color=red>**1. Sobel Operator**</font>
 
