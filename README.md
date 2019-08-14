@@ -26,7 +26,7 @@ plt.imshow(sobel)
 
 
 
-    <matplotlib.image.AxesImage at 0x7f52707d7f28>
+ 
 
 
 
@@ -45,7 +45,7 @@ plt.imshow(monarch)
 
 
 
-    <matplotlib.image.AxesImage at 0x7f52a465f5c0>
+   
 
 
 
@@ -201,7 +201,6 @@ plt.imshow(prewitt)
 
 
 
-    <matplotlib.image.AxesImage at 0x7f527071bbe0>
 
 
 
@@ -286,7 +285,6 @@ plt.imshow(laplacian)
 
 
 
-    <matplotlib.image.AxesImage at 0x7f526c58f278>
 
 
 
@@ -414,10 +412,10 @@ display(x, y, a, b, c, d)
 ![png](img/output_35_5.png)
 
 
-**Read more at:**
-[Link_1](https://stackoverflow.com/questions/22064982/edge-detection-method-better-than-canny-edge-detection)
-[Link_2](https://divtechnosys.com/edge-detection-using-python/)
-[Link_3](https://blog.sicara.com/opencv-edge-detection-tutorial-7c3303f10788)
+**Read more at:**<br>
+[Link_1](https://stackoverflow.com/questions/22064982/edge-detection-method-better-than-canny-edge-detection)<br>
+[Link_2](https://divtechnosys.com/edge-detection-using-python/)<br>
+[Link_3](https://blog.sicara.com/opencv-edge-detection-tutorial-7c3303f10788)<br>
 [Link_4](https://www.pyimagesearch.com/2015/04/06/zero-parameter-automatic-canny-edge-detection-with-python-and-opencv/)
 
 
